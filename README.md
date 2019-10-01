@@ -1,4 +1,4 @@
-# Erica DuBois
+
 
 ## Career Objectives
 
