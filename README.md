@@ -7,6 +7,7 @@ I am pursuing a new career in software development. I discovered after 5 years o
 ## Current Projects
 
 * [A-Maze-Ballz](https://github.com/edubois9119/a-maze-ballz) 
+* [Dominion App](https://dominion-game.github.io/)
 
 ## Education
 
