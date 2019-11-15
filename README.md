@@ -1,6 +1,6 @@
 # Welcome
 
-[SitePicture](IMG_4538.jpg)
+![SitePicture](IMG_4538.jpg)
 
 ## Career Objectives
 
