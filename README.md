@@ -1,6 +1,6 @@
 # Welcome
 
-[[https://github.com/edubois9119/edubois9119/blob/master/img/IMG_4538.jpg|alt=erica]]
+[SitePicture](IMG_4538.jpg)
 
 ## Career Objectives
 
