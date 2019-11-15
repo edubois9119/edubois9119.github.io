@@ -1,5 +1,7 @@
 # Welcome
 
+[[https://github.com/edubois9119/repository/blob/master/img/IMG_4538.jpg|alt=erica]]
+
 ## Career Objectives
 
 I am pursuing a new career in software development. I discovered after 5 years of teacher that my real passion lies in helping others problem solve. While teaching gave me some satisfaction in this, I didn’t feel as though the logic-oriented side of my brain was being challenged enough. This is what led me to the Java/Android DeepDive Coding Bootcamp and my interest in becoming a software developer. 
