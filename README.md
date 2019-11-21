@@ -40,4 +40,7 @@ Teacher								Aug 2014- June 2019
 
 ## Links
 
+* [GitHub Repositories](https://github.com/edubois9119)
+
 * [LinkedIn](https://www.linkedin.com/in/erica-dubois-90b171187/)
+
