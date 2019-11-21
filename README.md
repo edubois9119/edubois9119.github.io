@@ -9,7 +9,11 @@ I am pursuing a new career in software development. I discovered after 5 years o
 ## Current Projects
 
 * [A-Maze-Ballz](https://github.com/edubois9119/a-maze-ballz) 
+  *	Created a maze game app that requires the user to navigate a ball through a randomly generated maze, by tilting the device or - optionally - using the touch screen. Selecting higher levels of difficulty results in the generation of increasingly complex mazes.
+
+
 * [Dominion App](https://dominion-game.github.io/)
+  * Created a mobile version of the board game Dominion, a deck-building game for 2+ players. The Dominion app seeks to recreate the game experience by using a visual interface imitating the physical setup of the card game and uses Android, Android Room, Spring, Spring Boot and Hibernate technologies
 
 ## Education
 
