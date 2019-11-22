@@ -43,8 +43,7 @@ Deep Dive Coding Bootcamp						Expected Dec. 2019
 
 ### California Polytechnic State University, San Luis Obispo, CA
 #### MS of Agricultural Education							June 2016
-  * Related Coursework in Agricultural Science and Education
-
+ 
 
 ## Previous Employment 
 
