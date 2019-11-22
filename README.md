@@ -41,8 +41,8 @@ Deep Dive Coding Bootcamp						Expected Dec. 2019
 #### Certificate of Completion- Java/Android Developer
   * Currently enrolled in a 12-week Java/Android Bootcamp.This program consists of 750 hours of up to date Java/Android development education including: immersive, hands-on development of a personal android project and working with a simulated development team to create a Capstone project.
 
-#### California Polytechnic State University, San Luis Obispo, CA
-##### MS of Agricultural Education							June 2016
+### California Polytechnic State University, San Luis Obispo, CA
+#### MS of Agricultural Education							June 2016
     * Related Coursework in Agricultural Science and Education
 
 
