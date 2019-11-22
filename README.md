@@ -6,23 +6,21 @@
 
 I am a hard-working, detail oriented person pursuing a new career in software development. I discovered after 5 years of teaching that my real passion lies in helping others problem solve. While I did enjoy my time as a teacher, specifically working with students, I felt as though I needed more of challenge. This is what led me to the Java/Android DeepDive Coding Bootcamp and my interest in software development. 
 
-
-
-
-
-
-
-
-
-
 ## Technical Toolbox:
-* Programming Languages	:Java, SQL
-* Markup and Style Languages:	XML, HTML, Markdown, CSS
-* Frameworks & Libraries:	Java & Android standard libraries, JavaFX, Room, Hibernate, Spring & Spring Boot       
-* Development Environment & Tools:	IntelliJ IDEA, Android Studio, Git
-* Operating Systems:	Windows, MacOS, iOS, Android
-* Collaboration Platforms:	GitHub, Google Suite (Docs, Sheets, Mail, Drive, Presentation, Calendar)
-* Applications:	Microsoft Office (Word, PowerPoint, Excel)
+* Programming Languages
+   * Java, SQL
+* Markup and Style Languages
+   * XML, HTML, Markdown, CSS
+* Frameworks & Libraries
+   * Java & Android standard libraries, JavaFX, Room, Hibernate, Spring & Spring Boot       
+* Development Environment & Tools
+   * IntelliJ IDEA, Android Studio, Git
+* Operating Systems
+   * Windows, MacOS, iOS, Android
+* Collaboration Platforms
+   * GitHub, Google Suite (Docs, Sheets, Mail, Drive, Presentation, Calendar)
+* Applications
+   * Microsoft Office (Word, PowerPoint, Excel)
 
 
 
