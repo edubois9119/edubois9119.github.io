@@ -51,9 +51,9 @@ Deep Dive Coding Bootcamp						         Dec. 2019
 ## Previous Employment 
 
 ### Software Engineer • Ultramain Systems Inc. • February 2020 – Present
- •	Develop, test, and implement new software programs. Communicate effectively and professionally in all forms of communication with customers, management, and colleagues.
- •	Work with experienced team members to conduct root cause analysis of issues, review new and existing code and perform unit testing.
- •	Possess strong problem solving and decision-making skills while using good judgment. Multitask and change from one task to another without loss of efficiency or composure.
+ *	Develop, test, and implement new software programs. Communicate effectively and professionally in all forms of communication with customers, management, and colleagues.
+ *	Work with experienced team members to conduct root cause analysis of issues, review new and existing code and perform unit testing.
+ *	Possess strong problem solving and decision-making skills while using good judgment. Multitask and change from one task to another without loss of efficiency or composure.
 
 ### Deep Dive Coding Java Mentor • CNM Ingenuity • January 2020 – Present
  *	Java tutor for current Deep Dive Coding Bootcamp students
