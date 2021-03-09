@@ -4,7 +4,7 @@
 
 ## Career Objectives
 
-I am a Software Developer with a background in Java and Android software development. I went from knowing very little about software development to creating an Android maze game application and working on team to create a mobile version of the game Dominion. I am a hard-worker, a quick-learner and I enjoy helping others while making a difference in our world. I am enjoying every minute of software development and can't wait to see what's next! 
+I am a Software Developer with a background in Spring, Java, and Android software development. In my current role I am creating new microservices and updating and customizing current applications. I am a hard-worker, a quick-learner and I enjoy helping others while making a difference in our world. I am enjoying every minute of software development and can't wait to see what's next! 
 
 ## Technical Toolbox:
 * Programming Languages
@@ -12,19 +12,16 @@ I am a Software Developer with a background in Java and Android software develop
 * Markup and Style Languages
    * XML, HTML, Markdown, CSS
 * Frameworks & Libraries
-   * Java & Android standard libraries, JavaFX, Room, Hibernate, Spring & Spring Boot       
+   * Spring & Spring Boot, Java & Android standard libraries, JavaFX, Room, Hibernate
 * Development Environment & Tools
-   * IntelliJ IDEA, Android Studio, Git
+   * IntelliJ IDEA, Git, Cloud Foundry, SQLDeveloper, ElasticSearch, Grafana/Kibana, GoCD, PSP/AWS
 * Operating Systems
-   * Windows, MacOS, iOS, Android
+   * MacOS, Windows, iOS, Android
 * Collaboration Platforms
-   * GitHub, Google Suite (Docs, Sheets, Mail, Drive, Presentation, Calendar)
-* Applications
-   * Microsoft Office (Word, PowerPoint, Excel)
+   * Rally, GitHub, Microsoft Teams, Slack, Microsoft Suite 
 
 
-
-## Current Projects
+## Current Hobbies
 
 * [A-Maze-Ballz](https://github.com/edubois9119/a-maze-ballz) 
   *	Created a maze game app that requires the user to navigate a ball through a randomly generated maze, by tilting the device or - optionally - using the touch screen. Selecting higher levels of difficulty results in the generation of increasingly complex mazes.
@@ -50,13 +47,22 @@ Deep Dive Coding Bootcamp						         Dec. 2019
 
 ## Previous Employment 
 
-### Software Engineer • Ultramain Systems Inc. • February 2020 – Present
- *	Develop, test, and implement new software programs. Communicate effectively and professionally in all forms of communication with customers, management, and colleagues.
- *	Work with experienced team members to conduct root cause analysis of issues, review new and existing code and perform unit testing.
- *	Possess strong problem solving and decision-making skills while using good judgment. Multitask and change from one task to another without loss of efficiency or composure.
+### Contracted Java Developer for Comcast  • Brooksource • October 2020 – Present
+*	Evaluate and plan software designs and test results.
+*	Develop new software and support new applications under development along with the customization of current applications.
+*	Work with Quality Assurance team to determine if applications fit specifications and technical requirements.
+*	Communicate effectively and professionally in all forms of communication with customers, management, and colleagues.
+*	Work with experienced team members to conduct root cause analysis of issues, review new and existing code, and perform unit testing.
+*	Possess strong problem solving and decision-making skills while using good judgment. Multitask and change from one task to another without loss of efficiency or composure.
 
-### Deep Dive Coding Java Mentor • CNM Ingenuity • January 2020 – Present
- *	Java tutor for current Deep Dive Coding Bootcamp students
+### Software Engineer • Ultramain Systems Inc. • February 2020 – September 2020
+*	Developed, tested, and implemented new software programs. Communicated effectively and professionally in all forms of communication with customers, management, and colleagues.
+*	Worked with experienced team members to conduct root cause analysis of issues, reviewed new and existing code, and performed unit testing.
+*	Possessed strong problem solving and decision-making skills while using good judgment. Multitasked and changed from one task to another without loss of efficiency or composure.
+
+
+### Deep Dive Coding Java Mentor • CNM Ingenuity • January 2020 – September 2020
+ *	Java tutor for Deep Dive Coding Bootcamp students
 
 ### Deep Dive Coding Intern • Java/Android • September 2019 – December 2019 
  *	Gained knowledge and hands-on experience in the following areas: object-oriented programming (Java 8 and 11), version control (Git and GitHub), Maven, Gradle, unit test (Junit), Javadoc, relational databases (SQL, JDBC, and JPA), relational database management systems (Apache Derby, SQLite), REST web services, Android SDK, and Agile methodologies
